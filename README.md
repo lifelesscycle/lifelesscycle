@@ -8,7 +8,7 @@
   <a href="mailto:aaryanema2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://portfoliov2-x0nb.onrender.com/" target="_blank">
+  <a href="https://aarya-portfolio-6da6c.web.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
